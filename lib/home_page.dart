@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'wallet_page.dart';
+import 'package:demo/place_holder_wallet.dart';
 import 'package:demo/place_holder_finance.dart';
 import 'package:demo/place_holder_settings.dart';
 
